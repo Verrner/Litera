@@ -1,0 +1,26 @@
+.scope-container{
+	border-radius: 5px;
+	overflow: visible;
+	border-width: 4px;
+	background-color: white;
+}
+
+.scope-children-container{
+	min-width: 100px;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+.title-label-container{
+	height: 30px;
+	padding: 0px 0px 0px 10px;
+	width: auto;
+}
+
+.title-label{
+	-unity-text-align: middle-left;
+	height: 30px;
+	font-size: 18px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
