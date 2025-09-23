@@ -1,0 +1,29 @@
+.root-visual-element{
+	background-color: #3C3C3C;
+}
+
+.element-foldout{
+	padding: 0px;
+}
+
+.element-foldout > .unity-foldout__toggle{
+	margin: 0px;
+	border-width: 1px 0px 1px 0px;
+	background-color: #585858;
+	border-color: #757575;
+	color: #C3C3C3;
+	padding: 2px 0px 2px 10px;
+}
+
+.element-foldout > .unity-foldout__content{
+	margin: 10px 0px 10px 20px;
+}
+
+.element-foldout > .unity-foldout__toggle:hover{
+	background-color: #676767;
+}
+
+.title-field{
+	margin: 0px 20px 10px 0px;
+	padding: 5px 0px 5px 10px;
+}

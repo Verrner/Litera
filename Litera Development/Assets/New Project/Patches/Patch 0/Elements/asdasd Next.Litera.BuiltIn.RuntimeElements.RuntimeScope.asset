@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 743be06762ee9864fa594936b42215c7, type: 3}
+  m_Name: asdasd Next.Litera.BuiltIn.RuntimeElements.RuntimeScope
+  m_EditorClassIdentifier: 
+  SerializationOrder: 1000
+  Position: {x: 350.54272, y: 460.80002}
+  Title: asdasd
+  EnableSprite: 1
+  Sprite: {fileID: 0}
+  SpriteSize: 1
+  Children:
+  - {fileID: 11400000, guid: d4b6e8d478d8ab8419761b54bdd1f11f, type: 2}
+  - {fileID: 11400000, guid: 16e5c25c4e487d9409ec0e85a6366bd2, type: 2}
+  AccentColor: {r: 0, g: 1, b: 0.07569122, a: 1}

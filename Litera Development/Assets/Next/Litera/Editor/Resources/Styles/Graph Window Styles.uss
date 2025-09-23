@@ -1,0 +1,26 @@
+.root-visual-element{
+	background-color: #202020;
+}
+
+.toolbar-container{
+	background-color: #3C3C3C;
+	height: 20px;
+	flex-direction: row;
+}
+
+.entry-button{
+	background-color: transparent;
+	border-width: 0px 1px 0px 0px;
+	border-color: #212121;
+	border-radius: 0px;
+	margin: 0px;
+	height: 20px;
+}
+
+.entry-button:hover{
+	background-color: #454545;
+}
+
+.entry-button:active{
+	background-color: #505050;
+}

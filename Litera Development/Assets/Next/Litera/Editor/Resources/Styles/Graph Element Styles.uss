@@ -1,0 +1,26 @@
+.collider-element{
+	border-color: transparent;
+	background-color: transparent;
+	border-width: 4px;
+	border-radius: 15px;
+	padding: 6px;
+}
+
+.collider-element:hover{
+	border-color: #327090;
+}
+
+.collider-element-selected{
+	border-color: #44C0FF;
+}
+
+.collider-element-selected:hover{
+	border-width: 6px;
+	padding: 4px;
+	border-color: #44C0FF;
+}
+
+.lod-sprite-image{
+	margin: 10px;
+	align-self: center;
+}
